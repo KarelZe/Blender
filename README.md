@@ -11,7 +11,7 @@ Just navigate to the subdirectory and select the .zip file you want to download.
 Anyway I suggest to download the entire repository so you get the most of it. Enjoy.
 
 # Get in contact
-If you have any questions or if you need lisencing different to cc-by please contact me if you dare. Just fill in the contact form on http://markusbilz.com/wip/ or write my an email to mail æ markusbilz.com
+If you have any questions or if you need lisencing different to cc-by please contact me if you dare. Just write me an email at [github@markusbilz.com](mailto:github@markusbilz.com)
 
 # 3d files for download:
 ## ArchViz
@@ -20,13 +20,16 @@ If you have any questions or if you need lisencing different to cc-by please con
 
 [Download now!](ArchViz/sink/sink.zip )
 ### classical door
+
 ![alt tag](https://raw.githubusercontent.com/KarelZe/Blender/master/thumbnail/thumbnail_door.jpg)
 
-[Download now!](ArchViz/classical door/classic door.zip ) 
+[Download now!](/ArchViz/classical%20door/classic%20door.zip) 
+
 ### radiator
 ![alt tag](https://raw.githubusercontent.com/KarelZe/Blender/master/thumbnail/thumbnail_radiator.jpg)
 
 [Download now!](ArchViz/radiator/radiator.zip ) 
+
 ### socket
 ![alt tag](https://raw.githubusercontent.com/KarelZe/Blender/master/thumbnail/thumbnail_socket.jpg)
 
@@ -38,20 +41,26 @@ If you have any questions or if you need lisencing different to cc-by please con
 
 
 ## Other
+
 ### Comic airplane
+
 ![alt tag](https://raw.githubusercontent.com/KarelZe/Blender/master/thumbnail/thumbnail_airplane.jpg)
+
 [Download now!](other/airplane_comic/airplane_comic.zip ) 
 ### manga
+
 ![alt tag](https://raw.githubusercontent.com/KarelZe/Blender/master/thumbnail/thumbnail_manga.jpg)
 
 [Download now!](other/manga/Manga.zip ) 
 
 ### christmas details
+
 ![alt tag](https://raw.githubusercontent.com/KarelZe/Blender/master/thumbnail/thumbnail_christmas_details.jpg)
 
 [Download now!](other/christmas_details/christmas_details.zip ) 
 
 ### lego minifigure
+
 ![alt tag](https://raw.githubusercontent.com/KarelZe/Blender/master/thumbnail/thumbnail_lego_minifig.jpg)
 
 Textures and realistic shaders included! Bump map created by rioforce. For photorealistic shaders see [www.markusbilz.com](http://markusbilz.com/blog/2014/10/06/lego-minifigure-made-with-blender/) 
